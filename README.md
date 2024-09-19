@@ -21,12 +21,7 @@ pip install pytesseract
 > pytesseract.pytesseract.tesseract_cmd = r"path/to/tesseract.exe"
 > ```
 >
-> # Example
->
-> ```python
-> import pytesseract
-  from PIL import Image
-  ```
+
 
 # Tesseract Config
 pytesseract.pytesseract.tesseract_cmd = r"path/to/tesseract.exe"
