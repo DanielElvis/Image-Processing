@@ -2,4 +2,5 @@
 This is an image processing project that can extract the text inside your images
 
 # Installation  
-<p style=color : red>hello</p>
+You must download the tesseract library as follows:
+$\color{green}{pip} /space $\color{black}{install}$$
