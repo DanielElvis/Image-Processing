@@ -2,6 +2,6 @@
 This is an image processing project that can extract the text inside your images
 
 # Installation  
-```py
+```python
 pip install pytesseract
 ```
