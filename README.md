@@ -10,3 +10,10 @@ You must download the tesseract library as follows:<br>
 ```Markdown
 pip install pytesseract
 ```
+
+<br>
+<br>
+
+
+# Note
+<h2>To run this project, you must download the tesseract software and connect tesseract.exe to your project from within it, as in the following example:</h2>
