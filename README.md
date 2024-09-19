@@ -23,10 +23,6 @@ pip install pytesseract
 >
 
 
-# Tesseract Config
-pytesseract.pytesseract.tesseract_cmd = r"path/to/tesseract.exe"
-
-
 
 
 # Download Tesseract.exe with :
