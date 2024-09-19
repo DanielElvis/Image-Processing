@@ -7,7 +7,7 @@ This is an image processing project that can extract the text inside your images
 > [!IMPORTANT]  
 You must download the tesseract library as follows:<br>
 
-```Markdown
+```powershell
 pip install pytesseract
 ```
 
