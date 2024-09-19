@@ -5,6 +5,5 @@ This is an image processing project that can extract the text inside your images
 You must download the tesseract library as follows:<br>
 
 ```Markdown
-<p style="color:red;">hello</p>
-
+pip install pytesseract
 ```
