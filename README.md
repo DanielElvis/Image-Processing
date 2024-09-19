@@ -14,8 +14,7 @@ pip install pytesseract
 <br>
 <br>
 
-
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+[!NOTE]
+Highlights information that users should take into account, even when skimming.
 
 <h2>To run this project, you must download the tesseract software and connect tesseract.exe to your project from within it, as in the following example:</h2>
